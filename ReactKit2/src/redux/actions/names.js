@@ -1,0 +1,1 @@
+export const SETUP_EXAMPLE = 'SETUP_EXAMPLE'

@@ -1,0 +1,6 @@
+
+:root {
+    --primePurple: #6600ff;
+}
+
+:export { primeP: var(--primePurple); }

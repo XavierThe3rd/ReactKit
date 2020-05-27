@@ -1,0 +1,14 @@
+@import '../styles/settings.css';
+@import'../styles/generics.css';
+@import'../styles/tools.css';
+
+.app {
+    @apply --col-c-c;
+    size: 100%;
+    &_heading {
+        color: var(--primePurple);
+    }
+    &_svg {
+        size: 10rem;
+    }
+}
